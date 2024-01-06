@@ -1,0 +1,47 @@
+[[events]]
+title = "Web×IoT メイカーズチャレンジ 2019-20 in 信州"
+description = """
+全4回の講座を受講し、テキストに沿ってゲームを制作しました。
+"""
+url = "https://webiotmakers.github.io/2019/shinshu/"
+organization = "募集ページ"
+organization_url = "https://webiotmakers.connpass.com/event/143675/"
+date_start = "2019-09-28"
+date_end = "2019-11-03"
+
+[[events]]
+title = "全国高専生向けjig.jpインターンプログラム2019"
+description = """
+3週間のjigインターン2019に参加しました。得られるものが大きく、とても楽しいインターンでした！<br>
+[インターンシップのブログ](https://jigintern2019.hatenablog.com/)もどうぞ！
+"""
+url = "https://jig.jp/topics/201904171300/"
+organization = "株式会社jig.jp"
+organization_url = "https://www.jig.jp/"
+date_start = "2019-08-19"
+date_end = "2019-09-07"
+
+[[events]]
+title = "第29回 全国高専プログラミングコンテスト 本選"
+description = """
+競技部門に参加し、ソルバーを担当しました。
+"""
+url = "https://www.procon.gr.jp/?page_id=64541"
+organization = "全国高等専門学校 プログラミングコンテスト実行委員会"
+organization_url = "https://www.procon.gr.jp/"
+date_start = "2018-10-27"
+date_end = "2018-10-28"
+
+[[events]]
+title = "1週間のインターンシップ"
+date_start = "2016-08-22"
+date_end = "2016-08-27"
+
+[[events]]
+title = "中高生向けRubyプログラミング講座"
+description = """
+全4回の講座を受講し、テキストに沿ってゲームを制作しました。
+"""
+url = "https://www.mitaka.ne.jp/it/ruby/rubyseminar.html"
+date_start = "2014-06-01"
+date_end = "2014-08-11"

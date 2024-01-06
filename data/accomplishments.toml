@@ -1,0 +1,66 @@
+[[accomplishments]]
+title = "色彩検定 UC級"
+description = """
+2023年度夏季色彩検定UC級試験にて合格しました。
+"""
+url = "https://www.aft.or.jp/pages/feature#levelall"
+organization = "公益社団法人 色彩検定協会"
+organization_url = "https://www.aft.or.jp/"
+date_end = "2023-07-14"
+
+[[accomplishments]]
+title = "応用情報技術者試験"
+description = """
+令和4年度秋季応用情報技術者試験にて合格しました。
+"""
+url = "https://www.ipa.go.jp/shiken/kubun/ap.html"
+organization = "独立行政法人 情報処理推進機構"
+organization_url = "https://www.ipa.go.jp/"
+date_end = "2022-12-22"
+
+[[accomplishments]]
+title = "色彩検定 2級"
+description = """
+2022年度冬季色彩検定2級試験にて合格しました。
+"""
+url = "https://www.aft.or.jp/pages/feature#levelall"
+organization = "公益社団法人 色彩検定協会"
+organization_url = "https://www.aft.or.jp/"
+date_end = "2022-12-05"
+
+[[accomplishments]]
+title = "秘書検定 2級"
+description = """
+第127回秘書技能検定試験にて合格しました。
+"""
+url = "https://jitsumu-kentei.jp/HS/index"
+organization = "公益財団法人 実務技能検定協会"
+organization_url = "https://jitsumu-kentei.jp/"
+date_end = "2022-06-19"
+
+[[accomplishments]]
+title = "普通自動車第一種運転免許（AT限定）"
+url = "https://www.pref.nagano.lg.jp/police/menkyo/index.html"
+organization = "長野県公安委員会"
+organization_url = "https://www.pref.nagano.lg.jp/koani/index.html"
+date_end = "2020-01-09"
+
+[[accomplishments]]
+title = "実用英語技能検定 2級"
+description = """
+2019年度第1回実用英語技能検定にて合格しました。
+"""
+url = "https://www.eiken.or.jp/eiken/exam/grade_2/"
+organization = "公益財団法人 日本英語検定協会"
+organization_url = "https://www.eiken.or.jp/"
+date_end = "2019-07-12"
+
+[[accomplishments]]
+title = "基本情報技術者試験"
+description = """
+平成30年度春季試験にて合格しました。
+"""
+url = "https://www.ipa.go.jp/shiken/kubun/fe.html"
+organization = "独立行政法人 情報処理推進機構"
+organization_url = "https://www.ipa.go.jp/"
+date_end = "2018-05-16"

@@ -1,0 +1,17 @@
+[[contact]]
+icon_pack = ""
+icon = ""
+name = ""
+link = ""
+
+[[contact]]
+icon_pack = "fa-solid"
+icon = "fa-envelope"
+name = "contact@takameron.info"
+link = "mailto:contact@takameron.info"
+
+[[contact]]
+icon_pack = "fa-brands"
+icon = "fa-x-twitter"
+name = "@takameron_info"
+link = "https://twitter.com/takameron_info"

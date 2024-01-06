@@ -1,0 +1,83 @@
+[[skills]]
+icon_pack = ""
+icon = "devicon-c-plain"
+name = "C"
+description = "学校の授業でよく使いました"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-python-plain"
+name = "Python"
+description = "機械学習に使いました"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-ruby-plain"
+name = "Ruby"
+description = ""
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-rails-plain"
+name = "Ruby on Rails"
+description = "少し触りました"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-nodejs-plain"
+name = "Node.js"
+description = "APIサーバの構築で使用しました"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-html5-plain"
+name = "HTML"
+description = "Webアプリの作成・静的サイトのカスタマイズ"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-css3-plain"
+name = "CSS"
+description = ""
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-javascript-plain"
+name = "JavaScript"
+description = ""
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-mysql-plain"
+name = "SQL"
+description = "Webアプリで使います"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-linux-plain"
+name = "Linux"
+description = "サーバ管理など"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-docker-plain"
+name = "Docker"
+description = "時々使います"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-git-plain"
+name = "Git"
+description = "よく使います"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-visualstudio-plain"
+name = "Visual Studio"
+description = ""
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-vscode-plain"
+name = "Visual Studio Code"
+description = "普段使いのエディタです"
