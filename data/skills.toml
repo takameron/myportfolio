@@ -1,5 +1,53 @@
 [[skills]]
 icon_pack = ""
+icon = "devicon-java-plain"
+name = "Java"
+description = "バックエンドの開発に使用しています"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-junit-plain"
+name = "JUnit"
+description = "自動テストの作成に使用しています"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-mysql-plain"
+name = "SQL"
+description = "バックエンドの開発やチューニング、集計などに使用しています"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-amazonwebservices-plain-wordmark"
+name = "AWS"
+description = "バックエンドの開発などで使用しています"
+
+[[skills]]
+icon_pack = ""
+icon = ""
+name = "Datadog"
+description = "監視やパフォーマンス改善などに使用しています"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-docker-plain"
+name = "Docker"
+description = "時々使います"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-git-plain"
+name = "Git"
+description = "基本的にGitを使って開発します"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-linux-plain"
+name = "Linux"
+description = "VPSでWebサーバを建てたりログを見たりなどします"
+
+[[skills]]
+icon_pack = ""
 icon = "devicon-c-plain"
 name = "C"
 description = "学校の授業でよく使いました"
@@ -8,25 +56,19 @@ description = "学校の授業でよく使いました"
 icon_pack = ""
 icon = "devicon-python-plain"
 name = "Python"
-description = "機械学習に使いました"
-
-[[skills]]
-icon_pack = ""
-icon = "devicon-ruby-plain"
-name = "Ruby"
-description = ""
-
-[[skills]]
-icon_pack = ""
-icon = "devicon-rails-plain"
-name = "Ruby on Rails"
-description = "少し触りました"
+description = "機械学習などでたまに使います"
 
 [[skills]]
 icon_pack = ""
 icon = "devicon-nodejs-plain"
 name = "Node.js"
 description = "APIサーバの構築で使用しました"
+
+[[skills]]
+icon_pack = ""
+icon = "devicon-javascript-plain"
+name = "JavaScript"
+description = "たまに書きます"
 
 [[skills]]
 icon_pack = ""
@@ -42,39 +84,21 @@ description = ""
 
 [[skills]]
 icon_pack = ""
-icon = "devicon-javascript-plain"
-name = "JavaScript"
-description = ""
+icon = "devicon-ruby-plain"
+name = "Ruby"
+description = "ちょっとした処理はRubyで書くことが多いです"
 
 [[skills]]
 icon_pack = ""
-icon = "devicon-mysql-plain"
-name = "SQL"
-description = "Webアプリで使います"
+icon = "devicon-rails-plain"
+name = "Ruby on Rails"
+description = "少し触りました"
 
 [[skills]]
 icon_pack = ""
-icon = "devicon-linux-plain"
-name = "Linux"
-description = "サーバ管理など"
-
-[[skills]]
-icon_pack = ""
-icon = "devicon-docker-plain"
-name = "Docker"
-description = "時々使います"
-
-[[skills]]
-icon_pack = ""
-icon = "devicon-git-plain"
-name = "Git"
-description = "よく使います"
-
-[[skills]]
-icon_pack = ""
-icon = "devicon-visualstudio-plain"
-name = "Visual Studio"
-description = ""
+icon = "devicon-intellij-plain"
+name = "IntelliJ IDEA"
+description = "業務で使用しています"
 
 [[skills]]
 icon_pack = ""
